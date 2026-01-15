@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name binki-atlassian-jira-quick-comment-disable
 // @homepageURL https://github.com/binki/binki-atlassian-jira-quick-comment-disable
-// @version 1.0.0
+// @version 1.0.1
 // @match https://*.atlassian.net/*
 // ==/UserScript==
 
