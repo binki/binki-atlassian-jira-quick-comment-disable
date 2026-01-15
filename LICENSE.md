@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 Nathan Phillip Brink
+Copyright (c) 2026 Nathan Phillip Brink
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
